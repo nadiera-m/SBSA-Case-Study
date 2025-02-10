@@ -1,15 +1,11 @@
-fastapi==0.115.8
-uvicorn==0.34.0
-torch==2.6.0
-torchvision==0.21.0
-faiss-cpu==1.10.0
-pillow==11.1.0
-numpy==2.2.2
-aiofiles==24.1.0
-python-multipart==0.0.20
-transformers==4.48.3
-timm==1.0.14
-
+fastapi
+uvicorn
+torch
+numpy
+pillow
+clip-by-openai
+pydantic
+python-multipart
 
 
 
