@@ -21,8 +21,8 @@ Ensure you have the following installed:
 ### Backend Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/multi-modal-image-retrieval.git
-   cd multi-modal-image-retrieval/backend
+   git clone https://github.com/yourusername/SBSA-Case-Study.git
+   cd /SBSA-Case-Study
    ```
 2. Create and activate a virtual environment:
    ```sh
